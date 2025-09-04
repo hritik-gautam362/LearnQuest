@@ -12,9 +12,6 @@ An AI-powered cooking recipe app that generates **personalized recipes** based o
 - **Backend / AI Logic:** Python  
 - **Framework:** Streamlit  
 
-## 📸 Preview
-*(Add a screenshot of your app here if available)*  
-
 ## 📂 Installation & Usage
 1. Clone the repo  
    ```bash
