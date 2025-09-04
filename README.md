@@ -1,2 +1,22 @@
-# LearnQuest
-An AI-powered web app that generates personalized cooking recipes based on user needs and preferences.  Suggests meals tailored to available ingredients, diet, and taste.  Built with HTML, CSS, JavaScript, Python (Streamlit).  Developed during Exscore Winter Hackathon 2025.
+# LearnQuest 🍳🤖
+An AI-powered cooking recipe app that generates **personalized recipes** based on user needs and preferences.  
+
+## 🚀 Features
+- Suggests recipes tailored to **ingredients, diet, and taste**  
+- Simple and interactive **web interface**  
+- Built with **HTML, CSS, JavaScript, Python (Streamlit)**  
+- Developed during **Exscore Winter Hackathon 2025**  
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend / AI Logic:** Python  
+- **Framework:** Streamlit  
+
+## 📸 Preview
+*(Add a screenshot of your app here if available)*  
+
+## 📂 Installation & Usage
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/YourUsername/LearnQuest.git
+   cd LearnQuest
