@@ -11,9 +11,3 @@ An AI-powered cooking recipe app that generates **personalized recipes** based o
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend / AI Logic:** Python  
 - **Framework:** Streamlit  
-
-## 📂 Installation & Usage
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/YourUsername/LearnQuest.git
-   cd LearnQuest
